@@ -1,0 +1,5 @@
+values = input("Nhap chuoi so : ")
+list = values.split(",")
+tuple = tuple(list)
+print('List : ',list)
+print('Tuple : ',tuple)
